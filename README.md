@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdussamad
 - 👀 I’m interested in **Data Science** and **Machine Learning**
-- 🌱 I’m currently learning **Web Developpment Technologies**
+- 🌱 I’m currently learning **Data Science**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/arhvnnn) or by an email [Protonmail](mailto:a.arhun@proton.me)
 
 <!---
