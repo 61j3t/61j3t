@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdussamad<br>👀 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning Data Science
+👋 Hi, I’m Abdussamad<br>👀 I’m interested in Data Science and Machine Learning
 
 
 ## 🌐 Socials:
