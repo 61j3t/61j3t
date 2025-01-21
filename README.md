@@ -6,11 +6,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhvnnn) 
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,tensorflow,opencv" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,npm,nextjs,electron)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sequelize,supabase)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=vercel,docker)](https://skillicons.dev)</br>
 
 # 📊 GitHub Stats:
 ![61j3t's Stats](https://github-readme-stats.vercel.app/api?username=61j3t&theme=prussian&show_icons=true&hide_border=true&count_private=true)</br>
